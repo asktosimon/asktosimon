@@ -2,7 +2,7 @@
 
 ![codewars](https://www.codewars.com/users/asksimon/badges/large)
 
-[dev.to](https://dev.to/asktosimon)
+[My dev.to](https://dev.to/asktosimon)
 
 Experience:
 
