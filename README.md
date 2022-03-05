@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 ![codewars](https://www.codewars.com/users/asksimon/badges/large)
 
-**asktosimon/asktosimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[dev.to](https://dev.to/asktosimon)
 
 Experience:
 
