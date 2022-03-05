@@ -4,6 +4,10 @@
 
 [My dev.to](https://dev.to/asktosimon)
 
+[My linkedin](https://www.linkedin.com/in/andrey-simanovich-3a5439b7/)
+
+[My codewars](https://www.codewars.com/users/asksimon/badges/large)
+
 Experience:
 
 - 🔭 petshop.ru, full-stack, [php/1C bitrix, js/jquery, SQL], 2013 - 2016
