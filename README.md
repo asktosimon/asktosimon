@@ -4,7 +4,7 @@
 
 [My dev.to](https://dev.to/asktosimon)
 
-[My linkedin](https://www.linkedin.com/in/andrey-simanovich-3a5439b7/)
+[My linkedin](https://www.linkedin.com/in/asktosimon)
 
 [My codewars](https://www.codewars.com/users/asksimon/badges/large)
 
